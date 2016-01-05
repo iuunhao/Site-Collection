@@ -23,8 +23,7 @@
 |名称|地址|星级|
 | ----- | ----- | ----- |
 | w3cplus | [http://www.w3cplus.com](http://www.w3cplus.com) | ★★★★★ |
-| w3school | [http://www.w3school.com.cn](http://www.w3school.com.cn) | 
-★★★★★ |
+| w3school | [http://www.w3school.com.cn](http://www.w3school.com.cn) | ★★★★★ |
 
 ## DESIGN 
 |名称|地址|星级|
