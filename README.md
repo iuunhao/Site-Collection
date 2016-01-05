@@ -1,8 +1,9 @@
 # Front-end-favorites
-我很喜欢关注前端方面动态，在这里我分享自己的一些收藏，包括一些优秀网站、博客、开发团队、以及一些开发者。欢迎您的更新，以下排名不分先后。
+我很喜欢关注前端方面动态，在这里我分享自己的一些收藏，包括一些优秀网站、博客、开发团队、以及一些开发者，以下排名不分先后。
+
+欢迎您的更新，请提交至`test`分支谢谢。
 
 ## UED 
--
 |名称 |地址|星级|
 | ----- | ----- | ----- |
 |腾讯web前端AlloyTeam团队|[http://www.alloyteam.com](http://www.alloyteam.com)|★★★★★|
@@ -17,6 +18,11 @@
 |TaoBaoUED|[http://ued.taobao.org/blog](http://ued.taobao.org/blog)|★★★★★|
 |携程设计委员会|[http://ued.ctrip.com/blog](http://ued.ctrip.com/blog)|★★★★★|
 |奇舞团前端开发团队|[http://www.75team.com](http://www.75team.com)|★★★★★|
+
+## FRONT-END
+|名称|地址|星级|
+| ----- | ----- | ----- |
+| w3cplus | [http://www.w3cplus.com](http://www.w3cplus.com/) | ★★★★★ |
 
 ## DESIGN 
 |名称|地址|星级|
