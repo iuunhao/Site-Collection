@@ -1,7 +1,7 @@
 # Front-end-favorites
 我很喜欢关注前端方面动态，在这里我分享自己的一些收藏，包括一些优秀网站、博客、开发团队、以及一些开发者。欢迎您的更新，以下排名不分先后。
 
-## UED 
+#＃ UED 
 -
 |名称 |地址|星级|
 | ----- | ----- | ----- |
@@ -19,6 +19,7 @@
 |奇舞团前端开发团队|[http://www.75team.com](http://www.75team.com)|★★★★★|
 
 ## DESIGN 
-|名称 |地址|星级|
+|名称|地址|星级|
+| ----- | ----- | ----- |
 | 5KUN DESIGN | [http://www.5kun.com](http://www.5kun.com) | ★★★★★ |
 | Uehtml | [http://www.uehtml.com](http://www.uehtml.com) | ★★★★★ |
