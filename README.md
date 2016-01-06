@@ -33,7 +33,4 @@
 | ----- | ----- | ----- |
 | 5KUN DESIGN | [http://www.5kun.com](http://www.5kun.com) | ★★★★★ |
 | Uehtml | [http://www.uehtml.com](http://www.uehtml.com) | ★★★★★ |
-<<<<<<< HEAD
 
-=======
->>>>>>> test
