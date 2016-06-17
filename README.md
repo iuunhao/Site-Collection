@@ -4,7 +4,7 @@
 如果您需要添加新的站点，请以`test`分支为准来添加。
 欢迎您的**更新**，请提交至`test`分支谢谢。
 
-## UED 
+## UED
 |名称 |地址|星级|
 | ----- | ----- | ----- |
 |腾讯web前端AlloyTeam团队|[http://www.alloyteam.com](http://www.alloyteam.com)|★★★★★|
@@ -27,7 +27,7 @@
 | w3school | [http://www.w3school.com.cn](http://www.w3school.com.cn) | ★★★★★ |
 | w3ctech | [http://www.w3ctech.com](http://www.w3ctech.com) | ★★★★★ |
 
-## DESIGN 
+## DESIGN
 |名称|地址|星级|
 | ----- | ----- | ----- |
 | 5KUN DESIGN | [http://www.5kun.com](http://www.5kun.com) | ★★★★★ |
@@ -39,4 +39,3 @@
 | 正则表达式测试 | [http://tool.chinaz.com/regex/](http://tool.chinaz.com/regex/) | ★★★★★ |
 | 格式化代码 | [http://tool.oschina.net/codeformat/html](http://tool.oschina.net/codeformat/html) | ★★★★★ |
 | Autoprefixer | [http://autoprefixer.github.io](http://autoprefixer.github.io/) | ★★★★★ |
->>>>>>> test
