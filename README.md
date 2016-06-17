@@ -39,3 +39,5 @@
 | 正则表达式测试 | [http://tool.chinaz.com/regex/](http://tool.chinaz.com/regex/) | ★★★★★ |
 | 格式化代码 | [http://tool.oschina.net/codeformat/html](http://tool.oschina.net/codeformat/html) | ★★★★★ |
 | Autoprefixer | [http://autoprefixer.github.io](http://autoprefixer.github.io/) | ★★★★★ |
+| DNS查询 | [http://tool.chinaz.com/dns](http://autoprefixer.github.io) | ★★★★★ |
+| Gzips检测 | [http://tool.chinaz.com/Gzips/](hhttp://tool.chinaz.com/Gzips) | ★★★★★ |
