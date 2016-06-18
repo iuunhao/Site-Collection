@@ -41,3 +41,5 @@
 | Autoprefixer | [http://autoprefixer.github.io](http://autoprefixer.github.io/) | ★★★★★ |
 | DNS查询 | [http://tool.chinaz.com/dns](http://autoprefixer.github.io) | ★★★★★ |
 | Gzips检测 | [http://tool.chinaz.com/Gzips/](hhttp://tool.chinaz.com/Gzips) | ★★★★★ |
+| 网页检测 | [http://tool.chinaz.com/webdetect/?jdfwkey=gwaue2](http://tool.chinaz.com/webdetect/?jdfwkey=gwaue2) | ★★★★★ |
+
