@@ -49,3 +49,7 @@
 | 慕课网 | [http://imooc.com](http://imooc.com) | ★★★★★ |
 | 极客学院 | [http://www.jikexueyuan.com/](http://www.jikexueyuan.com/) | ★★★★★ |
 
+## Book
+|名称|地址|星级|
+| ----- | ----- |
+| [GitBook](https://0532.gitbooks.io/progit/content/ff1ccf57e98c817df1efcd9fe44a8aeb/README.htmltt) | ★★★★★ |
