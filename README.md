@@ -1,6 +1,9 @@
 # Site-Collection
 
-[![Issue Stats](https://img.shields.io/issuestats/i/github/strongloop/express.svg?maxAge=2592000)](https://github.com/iuunhao/Site-Collection/issues) [![CocoaPods](https://img.shields.io/cocoapods/metrics/doc-percent/AFNetworking.svg?maxAge=2592000)](https://github.com/iuunhao/Site-Collection) [![SourceForge](https://img.shields.io/sourceforge/dm/sevenzip.svg?maxAge=2592000)](https://github.com/iuunhao/Site-Collection) [![Website](https://img.shields.io/website-up-down-green-red/http/shields.io.svg?maxAge=2592000)](https://github.com/iuunhao/Site-Collection) [![GitHub commits](https://img.shields.io/github/commits-since/SubtitleEdit/subtitleedit/3.4.7.svg?maxAge=2592000)](https://github.com/iuunhao/Site-Collection) 
+[![Issue Stats](https://img.shields.io/issuestats/i/github/strongloop/express.svg?maxAge=2592000)](https://github.com/iuunhao/Site-Collection/issues) [![CocoaPods](https://img.shields.io/cocoapods/metrics/doc-percent/AFNetworking.svg?maxAge=2592000)](https://github.com/iuunhao/Site-Collection) [![SourceForge](https://img.shields.io/sourceforge/dm/sevenzip.svg?maxAge=2592000)](https://github.com/iuunhao/Site-Collection) [![Website](https://img.shields.io/website-up-down-green-red/http/shields.io.svg?maxAge=2592000)](https://github.com/iuunhao/Site-Collection) [![GitHub commits](https://img.shields.io/github/commits-since/SubtitleEdit/subtitleedit/3.4.7.svg?maxAge=2592000)](https://github.com/iuunhao/Site-Collection/commits/master) 
+
+[![GitHub forks](https://img.shields.io/github/forks/badges/shields.svg?style=social&label=Fork&maxAge=2592000)](https://github.com/iuunhao/Site-Collection) [![GitHub followers](https://img.shields.io/github/followers/espadrine.svg?style=social&label=Follow&maxAge=2592000)](https://github.com/iuunhao/Site-Collection) [![GitHub watchers](https://img.shields.io/github/watchers/badges/shields.svg?style=social&label=Watch&maxAge=2592000)](https://github.com/iuunhao/Site-Collection)
+
 
 我很喜欢关注前端方面动态，在这里我分享自己的一些收藏，包括一些优秀网站、博客、开发团队、以及一些开发者，以下排名不分先后。
 我很很喜欢收藏一些不错的网站，从UI设计转到前端也有近三年的时间了，但平时除了关注前端领域还会关注一些设计方面的动态，本项目是我平时搜藏不错的一些站点，本人关注的也比较多，分享给大家，希望可以给您一些帮助，当然个人精力有限，也许还有很多优秀的站点，我并不知道的站点，如果您有好的选择，可以推荐给我，你可以通过以下三种方式提交给我，您认为好的站点：
@@ -175,4 +178,3 @@
 
 
 
-[![GitHub forks](https://img.shields.io/github/forks/badges/shields.svg?style=social&label=Fork&maxAge=2592000)](https://github.com/iuunhao/Site-Collection) [![GitHub followers](https://img.shields.io/github/followers/espadrine.svg?style=social&label=Follow&maxAge=2592000)](https://github.com/iuunhao/Site-Collection) [![GitHub watchers](https://img.shields.io/github/watchers/badges/shields.svg?style=social&label=Watch&maxAge=2592000)](https://github.com/iuunhao/Site-Collection)
