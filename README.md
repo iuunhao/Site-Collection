@@ -158,6 +158,7 @@
   * 辅助类 (Auxiliary)
     * [站酷个人空间](http://www.zcool.com.cn) - 设计师作品展示平台
     * [Uehtml个人主页](http://www.uehtml.com) - 作品展示平台，风格很棒
+    * [Lofter](http://www.lofter.com/) - 作品展示平台
     * [GitBook](https://0532.gitbooks.io/progit/content/ff1ccf57e98c817df1efcd9fe44a8aeb/README.htmltt) - 写教程，写书的一个免费平台
     * [GitHub](https://github.com) - 全球最大代码托管平台
     * [Coding](https://coding.net) - 国内最大代码托管平台
