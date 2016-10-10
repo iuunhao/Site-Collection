@@ -33,7 +33,7 @@
     * [携程设计委员会](http://ued.ctrip.com/blog)
     * [奇舞团前端开发团队](http://www.75team.com)
 
-### UI设计 (UI Design)
+### UI设计
   * 素材类 (Material)
     * [花瓣](http://huaban.com)
     * [千库网](http://588ku.com/)
