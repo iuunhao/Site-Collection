@@ -1,23 +1,8 @@
 <br>
-<a href="https://github.com/iuunhao/Site-Collection/stargazers">
-    <img src="https://img.shields.io/github/stars/iuunhao/Site-Collection.svg" alt="">
-</a>
-<a href="https://github.com/iuunhao/Site-Collection/network">
-    <img src="https://img.shields.io/github/forks/iuunhao/Site-Collection.svg" alt="">
-</a>
-<a href="https://github.com/iuunhao/Site-Collection/issues"></a>
-<img src="https://img.shields.io/github/issues/iuunhao/Site-Collection.svg" alt="">
-<a href="https://github.com/iuunhao/Site-Collection">
-    <img src="https://img.shields.io/github/issues-closed-raw/iuunhao/Site-Collection.svg" alt="">
-</a>
-<a href="https://github.com/iuunhao/Site-Collection">
-    <img src="https://img.shields.io/github/contributors/iuunhao/Site-Collection.svg" alt="">
-</a>
-<a href="https://github.com/iuunhao/Site-Collection">
-    <img src="https://img.shields.io/badge/language-%E4%B8%AD%E6%96%87-ff69b4.svg" alt="">
-</a>
+<a href="https://github.com/iuunhao/Site-Collection/stargazers"><img src="https://img.shields.io/github/stars/iuunhao/Site-Collection.svg" alt=""></a> <a href="https://github.com/iuunhao/Site-Collection/network"><img src="https://img.shields.io/github/forks/iuunhao/Site-Collection.svg" alt=""></a> <a href="https://github.com/iuunhao/Site-Collection/issues"></a><img src="https://img.shields.io/github/issues/iuunhao/Site-Collection.svg" alt=""> <a href="https://github.com/iuunhao/Site-Collection"><img src="https://img.shields.io/github/issues-closed-raw/iuunhao/Site-Collection.svg" alt=""></a> <a href="https://github.com/iuunhao/Site-Collection"><img src="https://img.shields.io/github/contributors/iuunhao/Site-Collection.svg" alt=""></a> <a href="https://github.com/iuunhao/Site-Collection"><img src="https://img.shields.io/badge/language-%E4%B8%AD%E6%96%87-ff69b4.svg" alt=""></a>
 
 # Site-Collection
+
 <br>
 
 我很很喜欢收藏一些不错的网站，从UI设计转到前端也有近三年的时间了，但平时除了关注前端领域还会关注一些设计方面的动态，本项目是我平时搜藏不错的一些站点，本人关注的也比较多，分享给大家，希望可以给您一些帮助，当然个人精力有限，也许还有很多优秀的站点，我并不知道的站点，如果您有好的选择，可以推荐给我，你可以通过以下三种方式提交给我，您认为好的站点：
